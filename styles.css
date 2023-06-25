@@ -41,10 +41,10 @@ input {
 }
 
 .postcard-footer {
-	text-align: center;
+	text-align: x;
 }
 
 button {
-	background-color: greenyellow;
+	background-color: rgba(30, 31, 29, 0.096);
 	padding: 5px;
 }
